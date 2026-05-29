@@ -1,3 +1,12 @@
+## Internship Entry Tasks
+This repository contains my submission for the QCRI Humanitarian AI 
+internship entry tasks. Added files:
+- vision_tasks.md
+- evaluation_methodology.md
+- analysis.md
+- datasets/base.py
+- datasets/disasterm3.py
+
 <h2 align="center">
   <img
     src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true"
